@@ -1,0 +1,21 @@
+{
+  "name": "confirmtkt-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for Indian Railways train search & live seat availability (via ConfirmTkt)",
+  "type": "module",
+  "bin": { "confirmtkt-mcp": "dist/server.js" },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "tsx src/server.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0"
+  }
+}
