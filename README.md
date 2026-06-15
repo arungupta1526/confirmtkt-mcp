@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>ConfirmTkt Trains MCP Server</h1>
+<h1>ConfirmTkt Unofficial MCP Server</h1>
 
 <p>
   <strong>Indian Railways train search &amp; live seat availability — as an MCP server for Claude.</strong><br/>
