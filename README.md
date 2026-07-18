@@ -108,3 +108,7 @@ claude mcp add --scope user confirmtkt-trains -- node /absolute/path/to/dist/ser
 ```
 
 Then ask Claude: *"Find trains from New Delhi to Bhopal on 28-06-2026 with 3A available."*
+
+## License
+
+Released under the [MIT License](LICENSE).
